@@ -12,3 +12,8 @@ npm install googleapis@105 @google-cloud/local-auth@2.1.0 --save
 ```
 
 3. create index
+
+4. run 
+```shell
+node .
+```
