@@ -1,0 +1,23 @@
+{
+  "name": "google-calendar-api-in-nodejs",
+  "version": "1.0.0",
+  "description": "1. Set up your environment:  ```shell npm init ``` Enable the API Authorize credentials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZHANGJialiHappy/Google-Calendar-API-in-NodeJS.git"
+  },
+  "author": "Julia Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZHANGJialiHappy/Google-Calendar-API-in-NodeJS/issues"
+  },
+  "homepage": "https://github.com/ZHANGJialiHappy/Google-Calendar-API-in-NodeJS#readme",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "googleapis": "^105.0.0"
+  }
+}
